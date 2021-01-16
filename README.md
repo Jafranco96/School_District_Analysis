@@ -24,7 +24,7 @@ Comparing the two summaries, the school board can see that the rerun decreased t
  
  Rerun District Summary: <img src = "https://github.com/Jafranco96/School_District_Analysis/blob/main/Comparisons/school_summary_rerun.PNG">
 
-The comparison yields that for Thomas High School its % Passing Math percentage decreased from 93.27 to 93.18, its % Passing Reading percentage creased from 97.30 to 97.01, and its % Overall Passing percentage from 90.94 to 90.63.
+The comparison yields that for Thomas High School its % Passing Math percentage decreased from 93.27 to 93.18, its % Passing Reading percentage decreased from 97.30 to 97.01, and its % Overall Passing percentage decreased from 90.94 to 90.63.
 
 •	How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
@@ -90,7 +90,7 @@ These two summaries are the same also.
 
 To summarize for the school board, the four major changes that resulted from rerunning the analysis were:
 
- •	In the District Summary, Average Math Score and Average Reading Score dropped by at most 0.2. The % Passing Math, % Passing Reading, and % Overall Passing     percentages also all dropped by at most 0.3%
+ •	In the District Summary, Average Math Score dropped by 0.1. The % Passing Math, % Passing Reading, and % Overall Passing     percentages also all dropped by at most 0.3%
  
 •	In the School Summary, the % Passing Math, % Passing Reading, and % Overall Passing percentages for Thomas High School all dropped by less than 1%.
 
