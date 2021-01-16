@@ -16,6 +16,7 @@ With the rerun completed, Maria determined how each deliverable was impacted by 
  
  Rerun District Summary: <img src = "https://github.com/Jafranco96/School_District_Analysis/blob/main/Comparisons/district_summary_rerun.PNG">
 
+Comparing the two summaries, the school board can see that the rerun decreased the Average Math Score from 79 to 78.9, decreased the % Passing Math percentage from 75 to 74.8, decreased the % Passing Reading percentage from 86 to 85.7, and decreased the % Overall Passing percentage from 65 to 64.9.
 
  
 
