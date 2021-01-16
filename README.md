@@ -14,7 +14,7 @@ With the rerun completed, Maria determined how each deliverable was impacted by 
 
  Original District Summary: <img src = "https://github.com/Jafranco96/School_District_Analysis/blob/main/Comparisons/district_summary_original.PNG">
  
- Rerun District Summary: <img src = "https://github.com/Jafranco96/School_District_Analysis/blob/main/Comparisons/district_summary_rerun.PNG>
+ Rerun District Summary: <img src = "https://github.com/Jafranco96/School_District_Analysis/blob/main/Comparisons/district_summary_rerun.PNG">
 
 
  
