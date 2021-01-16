@@ -28,5 +28,9 @@ The comparison yields that for Thomas High School its % Passing Math percentage 
 
 •	How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
+ Original Top 5 Performing Schools:  <img src = "https://github.com/Jafranco96/School_District_Analysis/blob/main/Comparisons/top_5_original.PNG">
+
+ Rerun Top 5 Performing Schools:  <img src = "https://github.com/Jafranco96/School_District_Analysis/blob/main/Comparisons/top_5_rerun.PNG">
+
 ## Analysis Results Summary
 
