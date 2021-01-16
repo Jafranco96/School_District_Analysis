@@ -90,7 +90,7 @@ These two summaries are the same also.
 
 To summarize for the school board, the four major changes that resulted from rerunning the analysis were:
 
- •	In the District Summary, Average Math Score dropped by 0.1. The % Passing Math, % Passing Reading, and % Overall Passing     percentages also all dropped by at most 0.3%
+ •	In the District Summary, Average Math Score dropped by 0.1. The % Passing Math, % Passing Reading, and % Overall Passing     percentages also all dropped by at most 0.3%.
  
 •	In the School Summary, the % Passing Math, % Passing Reading, and % Overall Passing percentages for Thomas High School all dropped by less than 1%.
 
