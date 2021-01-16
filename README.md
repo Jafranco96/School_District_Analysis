@@ -39,17 +39,25 @@ While the rerun resulted in Thomas High School’s passing percentage in all cat
    o	Math and reading scores by grade
      
    Original Math Scores By Grade:
+   
+   
    <img src = "https://github.com/Jafranco96/School_District_Analysis/blob/main/Comparisons/Math_scores_original.PNG">
    
    Rerun Math Scores By Grade:
+   
+   
    <img src = "https://github.com/Jafranco96/School_District_Analysis/blob/main/Comparisons/Math_scores_rerun.PNG">
    
 Since all scores for Thomas High School’s ninth graders were nulled out, it is nor surprising to see a value of “nan” for the average math score for the ninth graders at that school. This was the only impact the rerun had on this summary.
 
    Original Reading Scores By Grade:
+   
+   
    <img src = "https://github.com/Jafranco96/School_District_Analysis/blob/main/Comparisons/reading_scores_original.PNG">
    
    Rerun Reading Scores By Grade:
+   
+   
    <img src = "https://github.com/Jafranco96/School_District_Analysis/blob/main/Comparisons/reading_scores_rerun.PNG">
    
 The same is true for the average reading scores by grade. The null value is the only differing element.
