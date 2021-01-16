@@ -62,5 +62,13 @@ Since all scores for Thomas High School’s ninth graders were nulled out, it is
    
 The same is true for the average reading scores by grade. The null value is the only differing element.
 
+ o	Scores by school spending
+     
+ Original Scores By School Spending Summary: <img src = "https://github.com/Jafranco96/School_District_Analysis/blob/main/Comparisons/spending_original.PNG">
+ 
+ Rerun Scores By School Spending Summary: <img src = "https://github.com/Jafranco96/School_District_Analysis/blob/main/Comparisons/spending_rerun.PNG">
+ 
+The rerun had no effect on this summary. The original and rerun summary are both exactly the same.
+
 ## Analysis Results Summary
 
