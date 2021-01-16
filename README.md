@@ -88,3 +88,17 @@ These two summaries are the same also.
 
 ## Analysis Results Summary
 
+To summarize for the school board, the four major changes that resulted from rerunning the analysis were:
+
+ •	In the District Summary, Average Math Score and Average Reading Score dropped by at most 0.2. The % Passing Math, % Passing Reading, and % Overall Passing     percentages also all dropped by at most 0.3%
+ 
+•	In the School Summary, the % Passing Math, % Passing Reading, and % Overall Passing percentages for Thomas High School all dropped by less than 1%.
+
+•	In the Math Scores by Grade Summary, there is no average for the math scores by ninth graders at Thomas High School. This is due to the null valuing as per the school board’s instructions. This specific average cannot be determined with the current compromised data.
+
+•	In the Reading Scores by Grade Summary, there is no average for the reading scores by ninth graders at Thomas High School. This average also cannot be determined with the current data source.
+
+With rerunning the analysis, the school board can now allocate future educational budgets based on the performance trends indicated by each summary.
+
+
+
