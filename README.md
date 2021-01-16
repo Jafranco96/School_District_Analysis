@@ -31,6 +31,9 @@ The comparison yields that for Thomas High School its % Passing Math percentage 
  Original Top 5 Performing Schools:  <img src = "https://github.com/Jafranco96/School_District_Analysis/blob/main/Comparisons/top_5_original.PNG">
 
  Rerun Top 5 Performing Schools:  <img src = "https://github.com/Jafranco96/School_District_Analysis/blob/main/Comparisons/top_5_rerun.PNG">
+ 
+While the rerun resulted in Thomas High School’s passing percentage in all categories to drop slightly, it did not impact its overall performance relative to other schools. In both the original and rerun Top 5 Performing Schools summary, it was the second best school by overall passing percentage. 
+ 
 
 ## Analysis Results Summary
 
