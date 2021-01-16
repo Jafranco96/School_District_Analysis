@@ -70,5 +70,14 @@ The same is true for the average reading scores by grade. The null value is the 
  
 The rerun had no effect on this summary. The original and rerun summary are both exactly the same.
 
+ o	Scores by school spending
+ 
+ Original Scores By School Size Summary: <img src = "https://github.com/Jafranco96/School_District_Analysis/blob/main/Comparisons/size_original.PNG">
+ 
+ Rerun Scores By School Size Summary: <img src = "https://github.com/Jafranco96/School_District_Analysis/blob/main/Comparisons/size_rerun.PNG">
+ 
+Both summaroes are the same as well.
+ 
+
 ## Analysis Results Summary
 
